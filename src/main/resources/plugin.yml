@@ -1,0 +1,7 @@
+name: BattleRoyale
+version: ${project.version}
+main: mm.plugins.battleroyale.BattleRoyale
+api-version: 1.16
+authors: [SylvanM, TiborM]
+description: This is a battle royale type game
+website: https://github.com/SylvanM/BattleRoyale
